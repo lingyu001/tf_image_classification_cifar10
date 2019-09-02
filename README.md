@@ -1,7 +1,7 @@
 # Project: Image Classification with TensorFlow
 
 ## Objective
-This project focuses on building a series of models to classify a series of images into one of ten classes. These images are pretty small ( 32×32×332×32×3 ). This can make classification a bit tricky—human performance is only about 94%.
+This project focuses on building a series of models to classify a series of images into one of ten classes. These images are pretty small ( 32×32×3). This can make classification a bit tricky—human performance is only about 94%.
 
 ## Data
 CIFAR-10 data set will be used in the project.
