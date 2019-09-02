@@ -21,8 +21,9 @@ Transfer learning NN model
 The validation of this project is using a set of reference models to score the test data accuracy. 
 **The accuracy of model prediction = Score * reference model accuracy**
 
-Reference model accuracy:
-Smallest Delta Model: reference solution achieves an accuracy of about 44% on a training set and 41% on a test set. 
-Fully-connected NN model： train set - 44% on a test set - 41%
-Convolutional NN model:  train set - 80% on a test set - 70%
-Transfer learning NN model:  train set - 87% on a test set - 85%
+** Reference model accuracy:**
+
+ - Smallest Delta Model: train set < 40%, test set < 40%
+ - Fully-connected NN model： train set = 44%, test set = 41%
+ - Convolutional NN model: train set = 80%, test set = 70%
+ - Transfer learning NN model: train set = 87%, test set = 85%
